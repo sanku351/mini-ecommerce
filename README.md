@@ -52,8 +52,8 @@ CREATE DATABASE mini_ecommerce;
 - `components/` - Reusable UI components
 - `lib/` - Utility functions and types
 - `public/` - Static assets
-- - `api/` - API route handlers
-- 
+- `api/` - API route handlers
+ 
 ### Backend (Express)
 - `server.js` - Main Express server file
 
